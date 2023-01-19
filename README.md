@@ -1,5 +1,5 @@
-# Competition_Garuda_UNY_Team
-Portofolio terkait kompetisi yang diikuti di Garuda UNY Team
+# Competition
+Portofolio terkait kompetisi yang diikuti 
 
 1. Future Rider -Shell Eco Marathon
 
