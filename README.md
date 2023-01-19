@@ -26,7 +26,7 @@ cellular vehicle to everything (C-V2X). Pada paper dibuat rancangan berupa ambul
 ![3 - Copy](https://user-images.githubusercontent.com/93894711/213559948-f17e072d-9a8f-4592-a3ad-5d287f94bcaf.png)
 
 - Formula Electric Student Championship (FESC) merupakan salah satu rangkaian event Indonesia International Motor Show (IIMS) 2022. Pada kompetisi ini mahasiswa membuat mobil formula electric.
-- Saya ikut serta dalam proses assembly kelistrikan mobil. Kendaraan dirancang dengan menggunakan baterai pack dan controller.
+- Saya ikut serta dalam proses assembly kelistrikan mobil dan riset data logger.
 
 
 
