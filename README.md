@@ -3,7 +3,7 @@ Portofolio terkait kompetisi yang diikuti di Garuda UNY Team
 
 1. Future Rider -Shell Eco Marathon
 
-![1 - Copy](https://user-images.githubusercontent.com/93894711/213559252-ff82357d-5818-4868-a0a3-c44601a3aad5.png)
+![1 - Copy](https://user-images.githubusercontent.com/93894711/213559454-5fb3e5a3-0379-44a6-b3eb-73905362c60e.png)
 
 - Tujuan kompetisi: merancang sebuah konsep mobil untuk masa depan dalam bentuk paper. 
 - Pada kompetisi ini saya bertugas merancang sistem Artificial intelligence (AI) mobil. 
