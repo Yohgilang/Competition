@@ -37,3 +37,8 @@ cellular vehicle to everything (C-V2X). Pada paper dibuat rancangan berupa ambul
 - Tujuan kompetisi: membuat coding untuk menjalankan mobil secara autonomous dan sudah disediakan sebuah map. Dalam map tersebut terdapat 15 set point yang harus dilewati dan akan diukur beberapa parameter efficiency (Energy Usage, Distance, CPU Usage, Time).
 - Pemrograman dilakukan menggunakan Robot Operating System (ROS) dan untuk simulasi menggunakan Simulator CARLA. OS yang digunakan yaitu Linux karena OS yang mendukung dan spesifikasi ringan.
 
+
+5. Writing Contest FOMUNY 2022 Kategori Esai 
+- Tujuan kompetisi: membuat konsep mengenai sains dan teknologi dalam era 5.0.
+- Konsep yang dibuat yaitu inovasi drone dengan algoritma yolo untuk membantu evakuasi korban bencana sehingga dapat juga membantu kerja dari tim SAR.
+- Cara kerja drone tersebut dengan menggunakan kamera dan GPS. Kamera akan mendeteksi kondisi sekitar dan mengirim real time ke master sistem dan GPS akan dikirimkan melalui telemetri.
