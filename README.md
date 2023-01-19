@@ -40,8 +40,7 @@ cellular vehicle to everything (C-V2X). Pada paper dibuat rancangan berupa ambul
 
 5. Writing Contest FOMUNY 2022 Kategori Esai 
 
-![image](https://user-images.githubusercontent.com/93894711/213576514-4b7ac0db-dc2b-4b91-8448-f9717b1eebba.png)
-![image](https://user-images.githubusercontent.com/93894711/213576520-366bb8fe-5340-41cb-a82e-01dcd836f937.png)
+![Annotation 2023-01-20 053012](https://user-images.githubusercontent.com/93894711/213576796-dc16a96d-14db-4d5d-82db-e8260b892e58.jpg)
 
 - Tujuan kompetisi: membuat konsep mengenai sains dan teknologi dalam era 5.0.
 - Konsep yang dibuat yaitu inovasi drone dengan algoritma yolo untuk membantu evakuasi korban bencana sehingga dapat juga membantu kerja dari tim SAR.
